@@ -1,0 +1,24 @@
+.parent-div-logo{
+margin: 2%;
+}
+
+.the{
+border: 1px solid black;
+color: black;
+font-size: 32px;
+transform: rotate(-90deg);
+position: relative;
+top: 75px;
+left: 380px;
+width: 7%;
+height: 5%;
+
+
+  
+}
+
+
+.siren{
+font-size: 71px;
+padding-left: 30px;
+}
